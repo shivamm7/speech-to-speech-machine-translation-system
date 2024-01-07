@@ -6,8 +6,6 @@
 
 # Current Deployment
 
-URL: https://www.cfilt.iitb.ac.in/ssmt/speech2speech
-
 ![SSMT Frontend](demo.png)
 
 # Working
